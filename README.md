@@ -46,4 +46,4 @@ This repository contains the code for a fall detection system designed for elder
 
 
 ```md
-![fall-detection](your-image-link-here)
+
